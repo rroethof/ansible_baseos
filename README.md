@@ -1,6 +1,6 @@
-# Ansible Role: Template
+# Ansible Role: ansible-role-ansible_baseos
 
-[![CI](https://github.com/AnyLinQ-B-V/template-ansible-role/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/AnyLinQ-B-V/template-ansible-role/actions/workflows/ci.yml)
+[![CI](https://github.com/rroethof/ansible_baseos/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/rroethof/ansible_baseos/actions/workflows/ci.yml)
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
 
 An template for new Ansible roles.
@@ -39,7 +39,7 @@ This example is taken from `molecule/default/converge.yml` and is tested on each
   gather_facts: yes
 
   roles:
-    - role: anylinq.ansibletemplate
+    - role: rroethof.ansible_baseos
 ```
 
 ## Setup for development
@@ -56,4 +56,4 @@ MIT
 
 ## Author Information
 
-This role was created in 2022 by [AnyLinQ B.V.](https://github.com/AnyLinQ-B-V).
+This role was created in 2023 by [Ronny Roethof](ronny@roethof.net).

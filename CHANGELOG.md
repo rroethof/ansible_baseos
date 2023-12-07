@@ -5,13 +5,7 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.0.2] - 2022-10-31 Moved Ansible galaxy to AnyLinQ namespace
-
-### Changed
-
-- All references to the anysure namespace have been repaced by the anylinq namespace
-
-## [0.0.1] - 2022-10-11 Initial version with full Github CI
+## [0.0.1] - 2023-12-07 Initial version with full Github CI
 
 ### Added
 

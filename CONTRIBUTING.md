@@ -4,7 +4,7 @@
  
 All members of the project community must abide by the [Code of Conduct](CODE_OF_CONDUCT.md).
 Only by respecting each other we can develop a productive, collaborative community.
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by filing a complaint at security@anylinq.com and/or contacting a project maintainer. 
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by filing a complaint at ronny@roethof.net and/or contacting a project maintainer. 
  
 We appreciate your courtesy of avoiding political questions here. Issues which are not related to the project itself will be closed by our community managers. 
  
@@ -16,7 +16,7 @@ We use GitHub to manage reviews of pull requests.
  
 * If you have a trivial fix or improvement, go ahead and create a pull request, addressing (with `@...`) a suitable maintainer of this repository in the description of the pull request.
  
-* If you plan to do something more involved, please reach out to us via email at security@anylinq.com. This will avoid unnecessary work and surely give you and us a good deal of inspiration.
+* If you plan to do something more involved, please reach out to us via email at ronny@roethof.net. This will avoid unnecessary work and surely give you and us a good deal of inspiration.
 
  
 ## Steps to Contribute

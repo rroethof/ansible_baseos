@@ -6,7 +6,7 @@ We would like to ask you to help us protect our users and our systems.
 
 ## Reporting a Vulnerability
 
-For all security related bugs, email security@anylinq.com
+For all security related bugs, email ronny@roethof.net
 
 Please do not publicly disclose these details without contacting us first. In return we will investigate all received vulnerability reports and, where needed, will take appropriate action as soon as is warranted. 
 In most cases this will be a workaround/mitigation first, followed by a fix and if required, a public disclosure.
